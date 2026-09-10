@@ -1,0 +1,7 @@
+meu-portfolio-site/
+├── index.html
+├── css/
+│   └── style.css
+├── img/
+│   └── avatar.jpg
+└── README.md
